@@ -23,5 +23,5 @@
 
 ## Personalización
 
-Siéntete libre de personalizar la aplicación según tus necesidades. Puedes ajustar los estilos y agregar nuevas funcionalidades
+Siéntete libre de personalizar la aplicación según tus necesidades. Puedes ajustar los estilos y agregar nuevas funciondaliades
 
